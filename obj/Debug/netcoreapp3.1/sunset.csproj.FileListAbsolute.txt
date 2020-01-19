@@ -1,0 +1,13 @@
+C:\Users\maarj\OneDrive\Töölaud\sunset\bin\Debug\netcoreapp3.1\sunset.exe
+C:\Users\maarj\OneDrive\Töölaud\sunset\obj\Debug\netcoreapp3.1\sunset.AssemblyInfoInputs.cache
+C:\Users\maarj\OneDrive\Töölaud\sunset\obj\Debug\netcoreapp3.1\sunset.AssemblyInfo.cs
+C:\Users\maarj\OneDrive\Töölaud\sunset\bin\Debug\netcoreapp3.1\sunset.deps.json
+C:\Users\maarj\OneDrive\Töölaud\sunset\bin\Debug\netcoreapp3.1\sunset.runtimeconfig.json
+C:\Users\maarj\OneDrive\Töölaud\sunset\bin\Debug\netcoreapp3.1\sunset.runtimeconfig.dev.json
+C:\Users\maarj\OneDrive\Töölaud\sunset\bin\Debug\netcoreapp3.1\sunset.dll
+C:\Users\maarj\OneDrive\Töölaud\sunset\bin\Debug\netcoreapp3.1\sunset.pdb
+C:\Users\maarj\OneDrive\Töölaud\sunset\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maarj\OneDrive\Töölaud\sunset\obj\Debug\netcoreapp3.1\sunset.csprojAssemblyReference.cache
+C:\Users\maarj\OneDrive\Töölaud\sunset\obj\Debug\netcoreapp3.1\sunset.csproj.CopyComplete
+C:\Users\maarj\OneDrive\Töölaud\sunset\obj\Debug\netcoreapp3.1\sunset.dll
+C:\Users\maarj\OneDrive\Töölaud\sunset\obj\Debug\netcoreapp3.1\sunset.pdb
